@@ -7,7 +7,7 @@ This information could be used in various software to alter/hijack core computer
 
 
 > **Disclaimer:**  
-> Unauthorized use of this tool is illegal and unethical. Use it only on systems you own or for which you have explicit permission. The author is not responsible for any misuse of this software.
+> Unauthorized use of this tool is illegal and unethical. Use it only on systems you own or for which you have explicit permission. I am not responsible for any misuse of this software.
 
 
 
