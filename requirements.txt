@@ -1,0 +1,4 @@
+# WMI Data Extraction GUI requirements
+PyQt5>=5.15.0
+WMI>=1.5.1
+pywin32>=300
